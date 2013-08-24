@@ -45,7 +45,7 @@ inoremap <C-U> <C-G>u<C-U>
 if has('mouse')
   set mouse=a
 endif
-" execute the Pathogen plugin 
+" execute the Pathogent plugin 
 call pathogen#incubate()
 call pathogen#helptags()
 
